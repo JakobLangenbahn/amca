@@ -4,7 +4,10 @@
 import psycopg2
 import pandas as pd
 
+from src.utils.timer import timer
 
+
+@timer
 def create_speeches_dataset(con_details, query, save_location):
     """ Use local Docker database to extract speeches data
 
