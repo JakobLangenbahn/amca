@@ -1,2 +1,12 @@
-click~=8.0.3
-setuptools~=58.0.4co
+numpy
+pandas
+psycopg2
+matplotlib
+wordcloud
+spacy
+gensim
+pyLDAvis
+bertopic
+sklearn
+ipywidgets
+IPython
