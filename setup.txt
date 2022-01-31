@@ -1,0 +1,7 @@
+In these files, one can find code notebooks and an HTML version containing the Automated Media Content Analysis research report.
+
+User Manual for the code notebook:
+1. Create a Conda environment with Python 3.8 in this folder.
+2. From the txt file, import the required packages into the environment with this command "pip install -r requirements.txt"
+3. Afterwards, one has to install additional packages by executing "conda install bertopic" and "python -m spacy download de_core_news_sm"
+4. One can then proceed by opening the notebook research.report-sk-jl-part-1 and following the instructions in the notebook.
