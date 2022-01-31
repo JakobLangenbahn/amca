@@ -10,3 +10,7 @@ bertopic
 sklearn
 ipywidgets
 IPython
+tqdm
+nltk
+textblob_de
+scipy
